@@ -1,0 +1,6 @@
+{
+	"presets": [
+    "@babel/preset-react",
+    ["latest-node", { "target": "current" }]
+  ]
+}

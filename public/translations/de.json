@@ -1,0 +1,4 @@
+{
+	"welcomeMessage": "Willkommen, %{name}.",
+	"notification": "Sie haben %{smart_count} Nachricht. |||| Sie haben %{smart_count} Nachrichten."
+}
